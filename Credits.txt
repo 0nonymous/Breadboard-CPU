@@ -1,0 +1,4 @@
+Credits
+A few python files are either created with the assistance of AI or have components taken from Ben Eater.
+Furthermore, the VGA display sync signal generator is based off of Ben Eater's design.
+Inspiration has been taken from other CPU architectures.
